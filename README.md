@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 Student developer from India, focused on building real-world products.
-* 🏆 **2× Hackathon Winner** — fast builds, clean execution.
+* 🏆 **2× Hackathon Winner** - fast builds, clean execution.
 * 🌐 Built websites for **3 businesses**, shipped to production.
 * 🧑‍💼 Completed a **3-month internship at Nomadiq**, hands-on industry experience.
 * ⚡ Full-stack dev obsessed with performance, DX, and clean systems.
