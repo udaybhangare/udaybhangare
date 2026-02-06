@@ -1,68 +1,63 @@
-# 👋 Yo, I'm Uday
+# 👋 Hey, I’m Uday
 
-Full-stack dev who likes building things that actually work.  
-I care about **clean systems**, **type safety**, and **shipping without drama**.
-
-Currently deep into:
-- TypeScript & Next.js
-- Rust + Tauri desktop apps
-- Backend system design
-- AI integrations that make sense (not buzzwords)
+⚡ Full-stack dev | 🧠 system thinker | 🛠️ builder  
+I like turning ideas into **clean, scalable products** — no noise, just solid code.
 
 ---
 
-## 🧠 What I’m about
+## 🧠 About Me
 
-- I enjoy turning messy ideas into clean, scalable systems
-- Strong believer in **DX > hype**
-- Prefer shipping over overthinking
-- If it compiles, scales, and doesn’t wake me up at 3am — it’s good code
-
----
-
-## 🛠 Tech I Touch (a lot)
-
-**Frontend**
-- Next.js
-- React
-- TypeScript
-
-**Backend**
-- System design
-- Express / Spring Boot
-- API architecture
-
-**Desktop**
-- Tauri
-- Rust + frontend integration
-- Cross-platform builds
-
-**AI / ML**
-- Python
-- Model inference
-- Plugging ML into real apps
+- 🚀 Shipping > talking  
+- 🧩 Love clean architecture & type safety  
+- 🧪 Experimenting across web, desktop & AI  
+- 🌙 Most productive after midnight
 
 ---
 
-## 🧩 Outside the code
+## 🛠️ Tech Stack
 
-- Hackathons 🏆
-- Building late-night ideas that may or may not become startups
-- Learning by breaking things (responsibly)
+### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
+![React](https://img.shields.io/badge/React-black?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 
-If you're:
-- hopping on a hackathon  
-- building something interesting  
-- or just want to talk tech  
+### 🧠 Backend
+![System Design](https://img.shields.io/badge/System%20Design-black)
+![Express](https://img.shields.io/badge/Express.js-black?logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?logo=springboot)
+
+### 🖥️ Desktop
+![Tauri](https://img.shields.io/badge/Tauri-black?logo=tauri)
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+![ML](https://img.shields.io/badge/ML%20Inference-black)
+
+---
+
+## 🧩 Builder Energy
+
+- 🏆 Hackathons? I’m in.
+- 🧠 Side projects that accidentally get serious
+- 🧼 Clean code > clever code
+- 🔥 Always learning, always shipping
+
+If you’re:
+- teaming up for a hackathon 🤝  
+- building something interesting 🚀  
+- or just want to nerd out about systems  
 
 **let’s connect.**
 
 ---
 
-📍 Mumbai, India  
-🌐 https://udxy.me  
-📫 ubhangare32@gmail.com  
+## 📫 Find Me
+
+🌐 **Website:** https://udxy.me  
+📧 **Email:** ubhangare32@gmail.com  
+🐙 **GitHub:** you’re already here  
 
 ---
 
-_Always down to build. Always learning._
+_If it compiles, scales, and ships — I’m interested._
