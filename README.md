@@ -1,63 +1,32 @@
-# 👋 Hey, I’m Uday
+# hey, i'm uday.
 
-⚡ Full-stack dev | 🧠 system thinker | 🛠️ builder  
-I like turning ideas into **clean, scalable products** — no noise, just solid code.
+i build things that probably already exist but mine are better (allegedly).
 
----
-
-## 🧠 About Me
-
-- 🚀 Shipping > talking  
-- 🧩 Love clean architecture & type safety  
-- 🧪 Experimenting across web, desktop & AI  
-- 🌙 Most productive after midnight
+currently shipping dev tools in public and pretending i know what i'm doing.
 
 ---
 
-## 🛠️ Tech Stack
+## what i actually do
 
-### 🌐 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
-![React](https://img.shields.io/badge/React-black?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
-
-### 🧠 Backend
-![System Design](https://img.shields.io/badge/System%20Design-black)
-![Express](https://img.shields.io/badge/Express.js-black?logo=express)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?logo=springboot)
-
-### 🖥️ Desktop
-![Tauri](https://img.shields.io/badge/Tauri-black?logo=tauri)
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
-
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-black?logo=python)
-![ML](https://img.shields.io/badge/ML%20Inference-black)
+- write code that works on my machine
+- turn "what if we just built it ourselves" into real software
+- obsess over clean architecture until 3am
+- push to main (sorry)
 
 ---
 
-## 🧩 Builder Energy
+## stack
 
-- 🏆 Hackathons? I’m in.
-- 🧠 Side projects that accidentally get serious
-- 🧼 Clean code > clever code
-- 🔥 Always learning, always shipping
-
-If you’re:
-- teaming up for a hackathon 🤝  
-- building something interesting 🚀  
-- or just want to nerd out about systems  
-
-**let’s connect.**
+typescript · rust · next.js · java · node · postgres · docker · the usual suspects
 
 ---
 
-## 📫 Find Me
+## right now
 
-🌐 **Website:** https://udxy.me  
-📧 **Email:** ubhangare32@gmail.com  
-🐙 **GitHub:** you’re already here  
+building in public. follow along or don't, the code ships either way.
+
+→ **[github.com/udaybhangare](https://github.com/udaybhangare)**
 
 ---
 
-_If it compiles, scales, and ships — I’m interested._
+*if it compiles and solves a real problem — i'm interested.*
